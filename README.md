@@ -1,2 +1,2 @@
 # AI_Playground
-Here's my journey through the wonderful world of artificial intelligence!
+This project makes use of GPT and LlamaIndex to create a bot that interacts with PDF documents. It returns answers to questions asked in natural language!
